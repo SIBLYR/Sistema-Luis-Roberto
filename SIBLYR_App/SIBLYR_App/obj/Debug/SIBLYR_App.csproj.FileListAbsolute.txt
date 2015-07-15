@@ -1,1 +1,14 @@
 C:\Users\Roberto\OneDrive\Outlook\Gestión Bar Restaurante Luis y Roberto\SIBLYR_App\SIBLYR_App\bin\Debug\SIBLYR_App.exe.config
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\bin\Debug\SIBLYR_App.exe.config
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\bin\Debug\SIBLYR_App.exe
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\bin\Debug\SIBLYR_App.pdb
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\obj\Debug\SIBLYR_App.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\obj\Debug\MainWindow.baml
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\obj\Debug\MainWindow.g.cs
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\obj\Debug\App.g.cs
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\obj\Debug\SIBLYR_App_MarkupCompile.cache
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\obj\Debug\SIBLYR_App.g.resources
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\obj\Debug\SIBLYR_App.Properties.Resources.resources
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\obj\Debug\SIBLYR_App.csproj.GenerateResource.Cache
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\obj\Debug\SIBLYR_App.exe
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\obj\Debug\SIBLYR_App.pdb

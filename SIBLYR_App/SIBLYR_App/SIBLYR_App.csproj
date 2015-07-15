@@ -94,6 +94,16 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SIBLYR_BL\SIBLYR_BL.csproj">
+      <Project>{d961cbc3-b381-4fc4-9118-e33afb9c1392}</Project>
+      <Name>SIBLYR_BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SIBLYR_BO\SIBLYR_BO.csproj">
+      <Project>{d1b275b3-e7d1-4a1a-a2e9-acc1247bd16e}</Project>
+      <Name>SIBLYR_BO</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
