@@ -12,3 +12,10 @@ C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\
 C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\obj\Debug\SIBLYR_App.csproj.GenerateResource.Cache
 C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\obj\Debug\SIBLYR_App.exe
 C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\obj\Debug\SIBLYR_App.pdb
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\obj\Debug\SIBLYR_App_MarkupCompile.lref
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\bin\Debug\SIBLYR_BL.dll
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\bin\Debug\SIBLYR_BO.dll
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\bin\Debug\SIBLYR_BL.pdb
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\bin\Debug\SIBLYR_BO.pdb
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_App\obj\Debug\Themes\Generic.baml

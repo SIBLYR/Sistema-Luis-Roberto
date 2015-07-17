@@ -1,1 +1,4 @@
-C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_BO\obj\Debug\SIBLYR_BO.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_BO\bin\Debug\SIBLYR_BO.dll
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_BO\bin\Debug\SIBLYR_BO.pdb
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_BO\obj\Debug\SIBLYR_BO.dll
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_BO\obj\Debug\SIBLYR_BO.pdb

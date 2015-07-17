@@ -50,6 +50,7 @@ namespace SIBLYR_App.cControls
         static ccProducto()
         {
             DefaultStyleKeyProperty.OverrideMetadata(typeof(ccProducto), new FrameworkPropertyMetadata(typeof(ccProducto)));
+        }
 
             #region DependencyProperty
 
@@ -130,29 +131,48 @@ namespace SIBLYR_App.cControls
                 test.NombreProducto = e.NewValue as string;
             }
             //-------------------------------------------------------------------------------------------------------//
-            public static DependencyProperty dpCantidad = DependencyProperty.Register
-                                                                            ("Cantidad",
+            public static DependencyProperty dpCapacidad = DependencyProperty.Register
+                                                                            ("Capacidad",
                                                                             typeof(string),
                                                                             typeof(ccProducto),
-                                                                            new UIPropertyMetadata(CantidadAct));
+                                                                            new UIPropertyMetadata(CapacidadAct));
 
-            [Description("Cantidad"), Category("Common Properties")]
+            [Description("Capacidad"), Category("Common Properties")]
             [Bindable(true)]
 
-            public string Cantidad
+            public string Capacidad
             {
-                get { return (string)GetValue(dpCantidad); }
-                set { SetValue(dpCantidad, value); }
+                get { return (string)GetValue(dpCapacidad); }
+                set { SetValue(dpCapacidad, value); }
             }
-            private static void CantidadAct(DependencyObject d, DependencyPropertyChangedEventArgs e)
+            private static void CapacidadAct(DependencyObject d, DependencyPropertyChangedEventArgs e)
             {
                 ccProducto test = (ccProducto)d;
-                test.Cantidad = e.NewValue as string;
+                test.Capacidad = e.NewValue as string;
             }
 
             //-------------------------------------------------------------------------------------------------------//
+          public static DependencyProperty dpTamanno = DependencyProperty.Register
+                                                                            ("Tamanno",
+                                                                            typeof(string),
+                                                                            typeof(ccProducto),
+                                                                            new UIPropertyMetadata(TamannoAct));
+
+            [Description("Tamanno"), Category("Common Properties")]
+            [Bindable(true)]
+
+            public string Tamanno
+            {
+                get { return (string)GetValue(dpTamanno); }
+                set { SetValue(dpTamanno, value); }
+            }
+            private static void TamannoAct(DependencyObject d, DependencyPropertyChangedEventArgs e)
+            {
+                ccProducto test = (ccProducto)d;
+                test.Tamanno = e.NewValue as string;
+            }
              //-------------------------------------------------------------------------------------------------------//
-            public static DependencyProperty dpPrecio = DependencyProperty.Register
+            public static DependencyProperty dp_Precio = DependencyProperty.Register
                                                                             ("Precio",
                                                                             typeof(string),
                                                                             typeof(ccProducto),
@@ -163,8 +183,8 @@ namespace SIBLYR_App.cControls
 
             public string Precio
             {
-                get { return (string)GetValue(dpPrecio); }
-                set { SetValue(dpPrecio, value); }
+                get { return (string)GetValue(dp_Precio); }
+                set { SetValue(dp_Precio, value); }
             }
             private static void PrecioAct(DependencyObject d, DependencyPropertyChangedEventArgs e)
             {
@@ -172,12 +192,54 @@ namespace SIBLYR_App.cControls
                 test.Precio = e.NewValue as string;
             }
             //-------------------------------------------------------------------------------------------------------//
+            //-------------------------------------------------------------------------------------------------------//
+            public static DependencyProperty dpNombre_SubCategoria = DependencyProperty.Register
+                                                                            ("Nombre_SubCategoria",
+                                                                            typeof(string),
+                                                                            typeof(ccProducto),
+                                                                            new UIPropertyMetadata(Nombre_SubCategoriaAct));
+
+            [Description("NombreSubCategoria"), Category("Common Properties")]
+            [Bindable(true)]
+
+            public string Nombre_SubCategoria
+            {
+                get { return (string)GetValue(dpNombre_SubCategoria); }
+                set { SetValue(dpNombre_SubCategoria, value); }
+            }
+            private static void Nombre_SubCategoriaAct(DependencyObject d, DependencyPropertyChangedEventArgs e)
+            {
+                ccProducto test = (ccProducto)d;
+                test.Nombre_SubCategoria = e.NewValue as string;
+            }
+            //-------------------------------------------------------------------------------------------------------//
+            public static DependencyProperty dpNombre_Categoria = DependencyProperty.Register
+                                                                            ("Nombre_Categoria",
+                                                                            typeof(string),
+                                                                            typeof(ccProducto),
+                                                                            new UIPropertyMetadata(Nombre_CategoriaAct));
+
+            [Description("Nombre_Categoria"), Category("Common Properties")]
+            [Bindable(true)]
+
+            public string Nombre_Categoria
+            {
+                get { return (string)GetValue(dpNombre_Categoria); }
+                set { SetValue(dpNombre_Categoria, value); }
+            }
+            private static void Nombre_CategoriaAct(DependencyObject d, DependencyPropertyChangedEventArgs e)
+            {
+                ccProducto test = (ccProducto)d;
+                test.Nombre_Categoria = e.NewValue as string;
+            }
+            //-------------------------------------------------------------------------------------------------------//
            
+
 
             #endregion
 
 
 
         }
-    }
+    
 }

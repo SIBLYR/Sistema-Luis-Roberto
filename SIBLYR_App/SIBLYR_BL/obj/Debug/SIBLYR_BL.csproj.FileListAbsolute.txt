@@ -1,0 +1,7 @@
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_BL\bin\Debug\SIBLYR_BL.dll
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_BL\bin\Debug\SIBLYR_BL.pdb
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_BL\bin\Debug\SIBLYR_BO.dll
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_BL\bin\Debug\SIBLYR_BO.pdb
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_BL\obj\Debug\SIBLYR_BL.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_BL\obj\Debug\SIBLYR_BL.dll
+C:\Users\Roberto\Documents\Sistema-Luis-Roberto\Sistema-Luis-Roberto\SIBLYR_App\SIBLYR_BL\obj\Debug\SIBLYR_BL.pdb
